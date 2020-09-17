@@ -5,12 +5,10 @@ for the number of frames present in video the task would very hugh amount of tim
 information can be obtained using audio.
 2. Audio to Text : The audio on itself cannot be processed and we need to convert to text. Conversion of audio to text is covered below here, so we will just use 
 the pre-trained google library for the conversion of audio to text.
-
-https://github.com/anikpuranik/Voice-to-Text/tree/master/Techniques%20for%20audio%20to%20text
+ https://github.com/anikpuranik/Voice-to-Text/tree/master/Techniques%20for%20audio%20to%20text
 3. Summarization of Text : Summarization of an article is the final step in this process. Mainly, Summarization is the part of Natural Language Processing which is 
 covered by the below link, so we are going to use direct function for summarization of text.
-
-https://github.com/anikpuranik/Natural-Language-Processing/tree/master/Text%20Summarization
+ https://github.com/anikpuranik/Natural-Language-Processing/tree/master/Text%20Summarization
 
 Challenges:
 1. While the video can be converted to audio, the complete audio for longer length is difficult to convert. Thus, we break the text into different parts of audio
